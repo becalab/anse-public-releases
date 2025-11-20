@@ -22,7 +22,7 @@ Follow these steps to resolve the issue:
 
 ---
 
-### MacOS: "Damaged MacOS app canånot be opened" 
+### MacOS: "Damaged MacOS app cannot be opened" 
 
 **Solution:**  
 To fix the issue, follow these steps:
