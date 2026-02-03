@@ -1,0 +1,25 @@
+{
+  "tabs": [
+    {
+      "id": "DataExplorer/",
+      "title": "Data Explorer",
+      "page": "DataExplorer",
+      "instanceId": null,
+      "tabData": {}
+    },
+    {
+      "id": "Engine/",
+      "title": "Engine",
+      "page": "Engine",
+      "instanceId": null,
+      "tabData": {}
+    },
+    {
+      "id": "Settings/",
+      "title": "Settings",
+      "page": "Settings",
+      "instanceId": null,
+      "tabData": {}
+    }
+  ]
+}

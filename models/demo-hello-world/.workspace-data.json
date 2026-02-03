@@ -1,0 +1,18 @@
+{
+  "tabs": [
+    {
+      "id": "Visualizer/",
+      "title": "Visualizer",
+      "page": "Visualizer",
+      "instanceId": null,
+      "tabData": {}
+    },
+    {
+      "id": "Engine/",
+      "title": "Engine",
+      "page": "Engine",
+      "instanceId": null,
+      "tabData": {}
+    }
+  ]
+}
