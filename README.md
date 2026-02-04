@@ -6,6 +6,10 @@ This repo is used for hosting public releases of the ANSE core engine, toolkit, 
 
 The latest public release can be downloaded from [Releases](https://github.com/becalab/anse-public-releases/releases).
 
+# Models
+
+Models can be found under [anse-public-releases/models](https://github.com/becalab/anse-public-releases/tree/main/models)
+
 # [What is ANSE?](https://github.com/becalab/anse-public-releases/wiki)
 
 ANSE stands for Abstract Network Simulation Engine. It is a carbon dynamics modeling framework. While most of the models under the ANSE-family are related to carbon modeling in harvested wood products (HWP), due to its abstract nature, the framework may extend its utility beyond the realm of carbon within the bioeconomy.
