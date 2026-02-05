@@ -4,7 +4,8 @@ This repo is used for hosting public releases of the ANSE core engine, toolkit, 
 
 # Installation
 
-The latest public release can be downloaded from [Releases](https://github.com/becalab/anse-public-releases/releases).
+The latest public release can be downloaded from https://github.com/becalab/anse-public-releases/releases/latest.
+Download the version for your Operating System and unzip.
 
 # Models
 
