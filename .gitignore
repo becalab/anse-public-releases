@@ -1,3 +1,4 @@
 .DS_Store
 .workspace-data.json
 .data-explorer-state.json
+~*.xlsx
