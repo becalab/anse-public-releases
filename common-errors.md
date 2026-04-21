@@ -6,6 +6,12 @@
 
 ## Frequently Encountered Issues
 
+### Unexpected Errors
+
+**Solution:**  
+1. Delete all temporary files (e.g., `.data-explorer-state.json`, `.workspace-data.json`) in the workspace (i.e., the folder that contains the model)
+2. the workspace should only contains `config.json`, `your-model.xlsx`
+
 ### Windows: 'SQLite Error 14: unable to open database file' when running importer
 
 **Solution:**  
