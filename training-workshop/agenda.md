@@ -2,7 +2,7 @@
 
 when: 2026-05-26 10:00-14:30
 
-where: in-person at UBC FSC 2916 (CAWP Case Room)
+where: in-person at UBC FSC 2964/65 (CAWP)
 
 | when        | what                                                                               |
 | ----------- | ---------------------------------------------------------------------------------- |
