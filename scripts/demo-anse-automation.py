@@ -94,6 +94,12 @@ def _(ANSE_DIR: str, ANSE_EXEC: str, Path, os, subprocess):
             print("✅ Conversion successful!")
             return True
         print("❌ Conversion failed")
+
+        # if converter.returncode == 0:
+        #     print("✅ Conversion successful!")
+        #     return True
+        # print("❌ Conversion failed")
+    
         return False
 
     return (anse_converter,)
@@ -117,16 +123,16 @@ def _(ANSE_DIR: str, ANSE_EXEC: str, os, subprocess):
                                     "-w", workspace,
                                     "-m", model_name,
                                    ], cwd=ANSE_DIR, capture_output=True, text=True)
-
-        if f"[Importer] Model '{model_name}' has been created" in importer.stdout:
-            print("✅ Import successful!")
-            return True
-        print("❌ Importer Error")
-
-        # if importer.returncode == 0:
+    
+        # if f"[Importer] Model '{model_name}' has been created" in importer.stderr:
         #     print("✅ Import successful!")
         #     return True
         # print("❌ Importer Error")
+
+        if importer.returncode == 0:
+            print("✅ Import successful!")
+            return True
+        print("❌ Importer Error")
 
         return False
 
@@ -165,6 +171,7 @@ def _(ANSE_DIR: str, ANSE_EXEC: str, os, subprocess):
             print("✅ Simulation successful!")
             return True
         print("❌ Simulation failed!")
+    
         return False
 
     return (anse_simulator,)
