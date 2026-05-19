@@ -7449,84 +7449,84 @@
 #	CURVE_POINT	Exponential retention, 51 yrs half-life	999
 #	Comments may be entered in fields after a 'COMMENT' keyword like this
 #	Nullable fields are marked with an asterisk (*)
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	0	1
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	0	2
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	0	3
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	0	4
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	0	5
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	0	6
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	0	7
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	0	8
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	0	9
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	0	10
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	0	11
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	0	12
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	0	13
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	0	14
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	0	15
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	0	16
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	0	17
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	0	18
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	0	19
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	0	20
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	0	21
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	0	22
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	0	23
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	0	24
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	0	25
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	0	26
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	0	27
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	0	28
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	0	29
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	0	30
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	31
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	32
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	33
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	34
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	35
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	36
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	37
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	38
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	39
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	40
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	41
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	42
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	43
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	44
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	45
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	46
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	47
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	48
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	49
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	50
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	51
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	52
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	53
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	54
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	55
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	56
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	57
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	58
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	59
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	60
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	61
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	62
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	63
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	64
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	65
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	66
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	67
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	68
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	69
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	70
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	71
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	72
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	73
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	74
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	75
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	76
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	77
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	78
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	79
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	80
-#	INITIAL_CMO	Wood harvested, BC	SW	Harvest residue	81
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;0;1;;;;1990;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;0;2;;;;1991;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;0;3;;;;1992;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;0;4;;;;1993;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;0;5;;;;1994;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;0;6;;;;1995;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;0;7;;;;1996;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;0;8;;;;1997;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;0;9;;;;1998;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;0;10;;;;1999;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;0;11;;;;2000;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;0;12;;;;2001;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;0;13;;;;2002;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;0;14;;;;2003;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;0;15;;;;2004;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;0;16;;;;2005;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;0;17;;;;2006;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;0;18;;;;2007;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;0;19;;;;2008;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;0;20;;;;2009;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;0;21;;;;2010;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;0;22;;;;2011;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;0;23;;;;2012;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;0;24;;;;2013;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;0;25;;;;2014;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;0;26;;;;2015;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;0;27;;;;2016;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;0;28;;;;2017;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;0;29;;;;2018;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;0;30;;;;2019;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;942.168473;31;;;;2020;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;195.305306;32;;;;2021;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;560.374135;33;;;;2022;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;66.842765;34;;;;2023;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;23796.048683;35;;;;2024;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;368.972253;36;;;;2025;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;3240.320494;37;;;;2026;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;759.293015;38;;;;2027;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;0.000001;39;;;;2028;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;126.524559;40;;;;2029;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;1102.334621;41;;;;2030;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;3832.4847372;42;;;;2031;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;29.183392;43;;;;2032;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;1585.67044;44;;;;2033;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;1741.302533;45;;;;2034;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;1034.828935;46;;;;2035;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;6088.6105315;47;;;;2036;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;8125.686235;48;;;;2037;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;382.726547;49;;;;2038;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;4492.241985;50;;;;2039;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;3891.525247;51;;;;2040;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;249.270438;52;;;;2041;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;294745.37425;53;;;;2042;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;3211.668083;54;;;;2043;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;739.733466;55;;;;2044;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;1155.107413;56;;;;2045;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;10666.658509;57;;;;2046;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;332.044871;58;;;;2047;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;1125.403028;59;;;;2048;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;4547.463022;60;;;;2049;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;25998.818315;61;;;;2050;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;607.151844;62;;;;2051;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;160881.1437077;63;;;;2052;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;15523.680416;64;;;;2053;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;8007.94205;65;;;;2054;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;95109.9711803;66;;;;2055;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;551379.619568;67;;;;2056;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;68916.991255;68;;;;2057;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;27301.5183713;69;;;;2058;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;18321.454606;70;;;;2059;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;19538.838181;71;;;;2060;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;69.509043;72;;;;2061;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;2384.98893;73;;;;2062;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;730.356808;74;;;;2063;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;318356.0420393;75;;;;2064;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;85194.587793;76;;;;2065;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;24326.131592;77;;;;2066;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;29949.5452298;78;;;;2067;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;502.395008;79;;;;2068;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;13082.2480561;80;;;;2069;
+<INITIAL_CMO>Wood harvested, BC;SW;Harvest residue;139537.070707;81;;;;2070;
