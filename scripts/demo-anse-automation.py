@@ -1,6 +1,6 @@
 import marimo
 
-__generated_with = "0.23.4"
+__generated_with = "0.23.6"
 app = marimo.App(width="medium")
 
 
@@ -99,7 +99,9 @@ def _(ANSE_DIR: str, ANSE_EXEC: str, Path, os, subprocess):
         #     print("✅ Conversion successful!")
         #     return True
         # print("❌ Conversion failed")
-    
+        # print(converter.stderr)
+
+        print(converter.stdout)
         return False
 
     return (anse_converter,)
@@ -123,17 +125,19 @@ def _(ANSE_DIR: str, ANSE_EXEC: str, os, subprocess):
                                     "-w", workspace,
                                     "-m", model_name,
                                    ], cwd=ANSE_DIR, capture_output=True, text=True)
-    
-        # if f"[Importer] Model '{model_name}' has been created" in importer.stderr:
-        #     print("✅ Import successful!")
-        #     return True
-        # print("❌ Importer Error")
 
-        if importer.returncode == 0:
+        if f"[Importer] Model '{model_name}' has been created" in importer.stderr:
             print("✅ Import successful!")
             return True
         print("❌ Importer Error")
 
+        # # if importer.returncode == 0:
+        # #     print("✅ Import successful!")
+        # #     return True
+        # # print("❌ Importer Error")
+        print(importer.stderr)
+
+        print(importer.stdout)
         return False
 
     return (anse_importer,)
@@ -171,7 +175,9 @@ def _(ANSE_DIR: str, ANSE_EXEC: str, os, subprocess):
             print("✅ Simulation successful!")
             return True
         print("❌ Simulation failed!")
-    
+        print(simulator.stderr)
+
+        print(simulator.stdout)
         return False
 
     return (anse_simulator,)
@@ -311,21 +317,24 @@ def _(mo):
 
 
 @app.cell
-def _():
-    # model_list: list[str] = [m for m in os.listdir(models_dir) if os.path.isdir(os.path.join(models_dir, m))]
+def _(anse_converter, anse_importer, anse_simulator, os):
+    models_dir_multi: str = "/Users/shxie/projects/anse-models/"
+    model_list_multi: list[str] = [mm for mm in os.listdir(models_dir_multi) if os.path.isdir(os.path.join(models_dir_multi, mm))]
+    # model_list_multi = ["demo-hwp101"]
+    # # loop through the model_list
+    for mm in model_list_multi:
+        if mm not in ("demo-cbm-hwp", "demo-recycling"):
+            print(mm)
+            workspace_multi = os.path.join(models_dir_multi, mm)
+            xlsx_i_multi = os.path.join(workspace_multi, mm + ".xlsx")
 
-    # # # loop through the model_list
-    # for m in model_list:
-    #     workspace = os.path.join(models_dir, m)
-    #     xlsx_i = os.path.join(workspace, m + ".xlsx")
-
-    #     if anse_converter(xlsx_i):
-    #         if anse_importer(workspace):
-    #             anse_simulator(workspace, duration=100)
-    #         else:
-    #             print("❌ Aborting simulation.")
-    #     else:
-    #         print("❌ Aborting rest of process.")
+            if anse_converter(xlsx_i_multi):
+                if anse_importer(workspace_multi):
+                    anse_simulator(workspace_multi, duration=100)
+                else:
+                    print("❌ Aborting simulation.")
+            else:
+                print("❌ Aborting rest of process.")
     return
 
 
